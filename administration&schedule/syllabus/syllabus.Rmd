@@ -52,6 +52,7 @@ Who? on what day? for how long?
 Who? on what day? for how long?  
 
 ## Horror Card Game  
+A (~role playing) card game with lost/corrupted/unclear data set situations to explore and solve.
 Practical
 Social
 English and German
