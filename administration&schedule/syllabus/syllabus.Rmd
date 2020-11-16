@@ -52,11 +52,11 @@ Who? on what day? for how long?
 Who? on what day? for how long?  
 
 ## Horror Card Game  
-A (~role playing) card game with lost/corrupted/unclear data set situations to explore and solve.
-Practical
-Social
-English and German
-used to scare them to realise how bad it can get  
+A (~role playing) card game with lost/corrupted/unclear data set situations to explore and solve. Such as having to run analyses again the day before your defense and data is missing.  
+Practical  
+Social  
+English and German  
+Used to 'scare' them to make them realise how bad it can get  
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.  
   
