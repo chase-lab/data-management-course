@@ -10,6 +10,6 @@ These questions should help us to assess how familiar are the students with the 
 
 ## Questions
 ### Open Science
-### R
- + Have you already used R for a research project?
+### R (or Python etc)
+ + Have you already used a script language for a research project?
  + Can you write and source a function?
