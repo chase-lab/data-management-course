@@ -1,0 +1,15 @@
+---
+title: "Questions to the students"
+author: "Paola Barajas, Anahita Kazem, Roel van Klink, Emma Ladouceur, Alban Sagouis"
+date: "11/12/2020"
+output: html_document
+---
+
+## Objective
+These questions should help us to assess how familiar are the students with the concepts of open science, open data, open code etc. It would also be useful to know how comfortable they are with R.
+
+## Questions
+### Open Science
+### R
+ + Have you already used R for a research project?
+ + Can you write and source a function?

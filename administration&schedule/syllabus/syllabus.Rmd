@@ -27,7 +27,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Who? on what day? for how long?
 
-## Workflow (Alban)
+## Workflow
  - The horror story
  - What to think about when planning?
  - of interest for all languages, don't be R specific before getting to the hands on.
