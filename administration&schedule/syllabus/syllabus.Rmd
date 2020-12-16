@@ -55,6 +55,15 @@ Who? on what day? for how long?
  
 Who? on what day? for how long?  
 
+## FAIR principals and Open data (Emma)
+- introduction to the fair principals
+- sources of open data/ places to put your open data
+- introduction to being open with the entire data synthesis process, wrangling, code, and data
+
+## Data Examples (Emma)
+- Lets find an open dataset and work with it
+-one bad and one good example
+
 ## Horror Card Game
 Ice-breaker:
 A (~role playing) card game with lost/corrupted/unclear data set situations to explore and solve. Such as having to run analyses again the day before your defense and data is missing.  
