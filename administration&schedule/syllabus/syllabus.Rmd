@@ -29,15 +29,17 @@ Who? on what day? for how long?
 
 ## Workflow
  - The horror story
- - What to think about when planning?
+ - What to think about when planning a project?
  - of interest for all languages, don't be R specific before getting to the hands on.
- - never use Excel for data manipulation. The date format nightmare.
- - how to document? (R comments to function documentation, readme, DESCRIPTION) (so obvious in industry)
+ - never use Excel for data manipulation. (example of the date format nightmare and bad habits).
+ - open access workflow examples. Don't feel embarrassed sharing your code!
+ - when splitting your code into several scrips?
+ - how to document? (R comments to function documentation, readme, DESCRIPTION)
+ - how to document? (Rmarkdown)
+ - Short illustration of make with drake.
+ 
  - part 1 preparing a rstudio notebook as an introduction. Using published bad open access data sets to illustrate vs. a great open access.
  - part 2 user's own data but having an example data set just in case. (we might be talking to students who have not be on the field yet / have no data yet)
- - open access workflow examples. Don't be ashamed of your code!
- - when splitting your code into several scrips?
- - introduction to drake with the learn drake package  
 
 Alban - 3-4 hours
 
@@ -62,7 +64,7 @@ Who? on what day? for how long?
 
 ## Data Examples (Emma)
 - Lets find an open dataset and work with it
--one bad and one good example
+- one bad and one good example
 
 ## Horror Card Game
 Ice-breaker:
@@ -72,7 +74,6 @@ Social
 English and German  
 Used to 'scare' them to make them realise how bad it can get  
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.  
   
 
   
