@@ -10,8 +10,13 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Spatial data
- - GIS metadata: Coordinate systems, projections, z, ...?
- - Tools (to guess, to convert between projections)
+- Spatial data types: vector and raster 
+- Basics for dealing with spatial data: 
+* Geographic coordinate systems 
+* Projections and transformations 
+* Tools to handle spatial data: e.g., a GIS (for visualization and map production) or R (for analysis). 
+- Example of plot data transformation: from an unusual coordinate system to a standard reference system WGS84. 
+
 
 ## Version control
  - just an introduction?
