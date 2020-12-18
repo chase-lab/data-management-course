@@ -10,8 +10,13 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Spatial data
- - GIS metadata: Coordinate systems, projections, z, ...?
- - Tools (to guess, to convert between projections)
+- Spatial data types: vector and raster 
+- Basics for dealing with spatial data: 
+* Geographic coordinate systems 
+* Projections and transformations 
+* Tools to handle spatial data: e.g., a GIS (for visualization and map production) or R (for analysis). 
+- Example of plot data transformation: from an unusual coordinate system to a standard reference system WGS84. 
+
 
 ## Version control
  - just an introduction?
@@ -29,15 +34,17 @@ Who? on what day? for how long?
 
 ## Workflow
  - The horror story
- - What to think about when planning?
+ - What to think about when planning a project?
  - of interest for all languages, don't be R specific before getting to the hands on.
- - never use Excel for data manipulation. The date format nightmare.
- - how to document? (R comments to function documentation, readme, DESCRIPTION) (so obvious in industry)
+ - never use Excel for data manipulation. (example of the date format nightmare and bad habits).
+ - open access workflow examples. Don't feel embarrassed sharing your code!
+ - when splitting your code into several scrips?
+ - how to document? (R comments to function documentation, readme, DESCRIPTION)
+ - how to document? (Rmarkdown)
+ - Short illustration of make with drake.
+ 
  - part 1 preparing a rstudio notebook as an introduction. Using published bad open access data sets to illustrate vs. a great open access.
  - part 2 user's own data but having an example data set just in case. (we might be talking to students who have not be on the field yet / have no data yet)
- - open access workflow examples. Don't be ashamed of your code!
- - when splitting your code into several scrips?
- - introduction to drake with the learn drake package  
 
 Alban - 3-4 hours
 
@@ -55,6 +62,15 @@ Who? on what day? for how long?
  
 Who? on what day? for how long?  
 
+## FAIR principals and Open data (Emma)
+- introduction to the fair principals
+- sources of open data/ places to put your open data
+- introduction to being open with the entire data synthesis process, wrangling, code, and data
+
+## Data Examples (Emma)
+- Lets find an open dataset and work with it
+- one bad and one good example
+
 ## Horror Card Game
 Ice-breaker:
 A (~role playing) card game with lost/corrupted/unclear data set situations to explore and solve. Such as having to run analyses again the day before your defense and data is missing.  
@@ -63,7 +79,6 @@ Social
 English and German  
 Used to 'scare' them to make them realise how bad it can get  
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.  
   
 
   
