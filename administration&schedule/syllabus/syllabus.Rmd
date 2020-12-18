@@ -42,6 +42,7 @@ Who? on what day? for how long?
  - how to document? (R comments to function documentation, readme, DESCRIPTION)
  - how to document? (Rmarkdown)
  - Short illustration of make with drake.
+ - Using (or not using...) DropBox for you analyses.
  
  - part 1 preparing a rstudio notebook as an introduction. Using published bad open access data sets to illustrate vs. a great open access.
  - part 2 user's own data but having an example data set just in case. (we might be talking to students who have not be on the field yet / have no data yet)
