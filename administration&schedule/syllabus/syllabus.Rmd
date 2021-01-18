@@ -1,7 +1,7 @@
 ---
 title: "Syllabus"
 author: "Paola Barajas, Anahita Kazem, Roel van Klink, Emma Ladouceur, Alban Sagouis"
-date: "13/11/2020"
+date: "13/12/2020"
 output: html_document
 ---
 
@@ -9,7 +9,29 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Spatial data
+## Horror Card Game
+Ice-breaker:
+A (~role playing) card game with lost/corrupted/unclear data set situations to explore and solve. Such as having to run analyses again the day before your defense and data is missing.  
+Practical  
+Social  
+English and German  
+Used to 'scare' them to make them realise how bad it can get  
+
+## Introduction to iDiv data repository (Ani)
+ - What is good open data metadata
+ - Naming variables in a meaningful way
+ - Open formats
+ 
+## FAIR principals and Open data (Emma)
+- introduction to the fair principals
+- sources of open data/ places to put your open data
+- introduction to being open with the entire data synthesis process, wrangling, code, and data
+
+## Data Examples (Emma)
+- Lets find an open dataset and work with it
+- one bad and one good example
+
+## Spatial data (Paola)
 - Spatial data types: vector and raster 
 - Basics for dealing with spatial data: 
 * Geographic coordinate systems 
@@ -17,8 +39,12 @@ knitr::opts_chunk$set(echo = TRUE)
 * Tools to handle spatial data: e.g., a GIS (for visualization and map production) or R (for analysis). 
 - Example of plot data transformation: from an unusual coordinate system to a standard reference system WGS84. 
 
+## Introduction to database (Roel)
+ - what is a relational database?
+ - why?
+ - Structure? fore reliability, for readability, reproducibility, archiving, FAIR, speed, weight
 
-## Version control
+## Version control (Ani, Alban)
  - just an introduction?
  - more, in relation with the IT git class?
  - Emma's intro on Tools for collaboration
@@ -28,11 +54,11 @@ knitr::opts_chunk$set(echo = TRUE)
  - when to commit?
 
  - thinking of the possibility of having an hour breakout for students who are not familiar with git at all.  
- ![git workflow](git-workflow.png)
+ <!-- ![git workflow](git-workflow.png)  -->
 
-Who? on what day? for how long?
 
-## Workflow
+
+## Workflow (Alban)
  - The horror story
  - What to think about when planning a project?
  - of interest for all languages, don't be R specific before getting to the hands on.
@@ -45,41 +71,6 @@ Who? on what day? for how long?
  - Using (or not using...) DropBox for you analyses.
  
  - part 1 preparing a rstudio notebook as an introduction. Using published bad open access data sets to illustrate vs. a great open access.
- - part 2 user's own data but having an example data set just in case. (we might be talking to students who have not be on the field yet / have no data yet)
-
-Alban - 3-4 hours
-
-## Introduction to database:
- - what is a relational database?
- - why?
- - Structure? fore reliability, for readability, reproducibility, archiving, FAIR, speed, weight
-
-Who? on what day? for how long?  
-
-## Introduction to iDiv data repository (Ani)
- - What is good open data metadata
- - Naming variables in a meaningful way
- - Open formats
- 
-Who? on what day? for how long?  
-
-## FAIR principals and Open data (Emma)
-- introduction to the fair principals
-- sources of open data/ places to put your open data
-- introduction to being open with the entire data synthesis process, wrangling, code, and data
-
-## Data Examples (Emma)
-- Lets find an open dataset and work with it
-- one bad and one good example
-
-## Horror Card Game
-Ice-breaker:
-A (~role playing) card game with lost/corrupted/unclear data set situations to explore and solve. Such as having to run analyses again the day before your defense and data is missing.  
-Practical  
-Social  
-English and German  
-Used to 'scare' them to make them realise how bad it can get  
-
-  
+ - part 2 user's own data but having an example data set just in case. (we might be talking to students who have not be on the field yet / have no data yet)  
 
   
